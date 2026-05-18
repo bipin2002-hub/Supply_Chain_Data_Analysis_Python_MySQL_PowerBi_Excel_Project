@@ -153,24 +153,18 @@ Filters available: Order Country, Order Status, Year
 supply-chain-analysis/
 │
 ├── data/
-│   └── supply_chain_dataset.csv
+│   └── Untitled document.pdf
 │
 ├── notebooks/
-│   ├── 01_eda.ipynb
-│   ├── 02_delivery_analysis.ipynb
-│   ├── 03_sales_profit_analysis.ipynb
-│   ├── 04_geographic_analysis.ipynb
-│   ├── 05_statistical_tests.ipynb
-│   └── 06_correlation_analysis.ipynb
-│
+│   ├── Supply Chain Analysis1.0 (1).ipynb
+│  
 ├── sql/
-│   └── supply_chain_queries.sql
+│   └── Supply_chain_Analysis_sql.sql
 │
 ├── dashboard/
-│   └── supply_chain_dashboard.pbix
-│
+│   └──Supply chain Analysis Dashboard.pbix
 ├── reports/
-│   └── Supply_Chain_Analysis_Report.pdf
+│   └──Supply Chain analysis Report.pdf
 │
 └── README.md
 ```
